@@ -91,6 +91,7 @@ phone = "408 812 5534"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+email = "sumith.reddy2@gmail.com"
 address = {street = "435 W Amaryllis Drive", city = "Bloomington", region = "IN", postcode = "47404", country = "United States", country_code = "US"}
 
 # Geographic coordinates

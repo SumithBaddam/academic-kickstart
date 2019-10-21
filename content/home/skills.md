@@ -15,10 +15,10 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-code"
+  icon = "code"
   icon_pack = "fab"
   name = "Programming Languages"
-  description = "Python, Java, R, C++, C"
+  description = "Python, Java, R, C++, C, MATLAB"
   
 [[feature]]
   icon = "chart-line"
@@ -27,15 +27,27 @@ subtitle = ""
   description = "TensorFlow, Keras, Tableau, OpenCV, Scikit-learn"  
   
 [[feature]]
-  icon = "database"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Web development"
-  description = "10%"
+  description = "Django, AngularJS, Flask, Javascript, HTML, JDBC"
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "Database"
-  description = "MongoDB, MySQL, NoSQL, AWS, ZoDB, Parse cloud database"
+  description = "MongoDB, MySQL, JDBC, NoSQL, AWS, ZoDB, Parse Cloud"
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Platforms"
+  description = "Linux, Unix"
+  
+[[feature]]
+  icon = "shield-alt"
+  icon_pack = "fas"
+  name = "Security"
+  description = "Softare Security, WebApp Security"
 
 +++

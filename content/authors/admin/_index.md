@@ -53,7 +53,7 @@ social:
   link: https://www.linkedin.com/in/sumith-reddy-baddam/
 - icon: cv
   icon_pack: ai
-  link: https://github.com/SumithBaddam
+  link: files/cv.pdf #https://github.com/SumithBaddam
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv

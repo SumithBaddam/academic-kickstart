@@ -7,6 +7,15 @@ weight = 65  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
+[[item]]
+  #organization = "Coursera"
+  #organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
+  url = ""
+  #certificate_url = "https://www.coursera.org"
+  #date_start = "2018-10-01"
+  #date_end = ""
+  #description = ""
 
 [content]
   # Page type to display. E.g. project.

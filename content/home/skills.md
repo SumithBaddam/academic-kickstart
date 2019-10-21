@@ -15,21 +15,27 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "fa-code"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Programming Languages"
+  description = "Python, Java, R, C++, C"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Machine Learning"
+  description = "TensorFlow, Keras, Tableau, OpenCV, Scikit-learn"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Web development"
   description = "10%"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Database"
+  description = "MongoDB, MySQL, NoSQL, AWS, ZoDB, Parse cloud database"
 
 +++

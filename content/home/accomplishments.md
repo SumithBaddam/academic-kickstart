@@ -26,8 +26,7 @@ date_format = "Jan 2006"
   #certificate_url = "https://www.coursera.org"
   date_start = "2018-10-01"
   date_end = ""
-  description = "Virtual agent that acts as a receptionist. A 3 layered architecture that has dialogue management, video
-analysis, speech to text and text to speech models. Built deep learning model for dialogue management. Video analysis involved fate detection and recognition. Speech synthesis was using API."
+  description = "Virtual agent that acts as a receptionist. A 3 layered architecture that has dialogue management, video analysis, speech to text and text to speech models. Built deep learning model for dialogue management. Video analysis involved fate detection and recognition. Speech synthesis was using API."
 
 [[item]]
   organization = "DataCamp"
@@ -64,7 +63,7 @@ analysis, speech to text and text to speech models. Built deep learning model fo
   organization_url = "https://www.datacamp.com"
   title = "Automated Essay Grading System"
   url = ""
-  certificate_url = "https://www.datacamp.com"
+  #certificate_url = "https://www.datacamp.com"
   date_start = "2017-07-01"
   date_end = "2017-12-21"
   description = ""

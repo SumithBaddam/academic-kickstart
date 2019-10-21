@@ -1,73 +1,133 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
-
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Accomplishments widget.
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
-title = "Patent & Publications"
+title = "Accomplish&shy;ments"
 subtitle = ""
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-  
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-    
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+[[item]]
+  organization = "Siemens India"
+  organization_url = "Siemens India"
+  title = "Human Computer Interaction"
+  url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = "Virtual agent that acts as a receptionist. A 3 layered architecture that has dialogue management, video analysis, speech to text and text to speech models. Built deep learning model for dialogue management. Video analysis involved fate detection and recognition. Speech synthesis was using API."
 
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
+
+[[item]]
+  organization = "IIIT-B"
+  organization_url = "https://www.edx.org"
+  title = "Object Recognition using Deep Neural Networks"
+  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  #certificate_url = "https://www.edx.org"
+  date_start = "2018-03-01"
+  date_end = ""
+  description = "Visual categorization of objects using Convolution Neural Networks in Python."
   
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
- 
- 
+[[item]]
+  organization = "IIIT-B"
+  organization_url = "https://www.edx.org"
+  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  #certificate_url = "https://www.edx.org"
+  date_start = "2018-03-01"
+  date_end = ""
+  title = "Automated Essay Grading System"
+  description ="The students in an interview were asked to write essays on specific topics and the task is to grade those essays. I have built a POS Tagger module using SCRDR algorithm and used this as a feature along with other word features. The model was trained using neural networks."
+
+[[item]]
+  organization = "IIIT-B"
+  organization_url = "Siemens India"
+  title = "Visual Categorization with Bags of Key-points"
+  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  #certificate_url = "https://www.edx.org"
+  date_start = "2018-03-01"
+  date_end = ""
+  description = "Classification of objects in an image using SIFT descriptor and Support Vector Machine classifier. Implemented the paper by Xerox Research institute."
+
+[[item]]
+  organization = "IIIT-B"
+  organization_url = "Siemens India"
+  title = "Data Analytics on Karnataka State Government Education data"
+  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  #certificate_url = "https://www.edx.org"
+  date_start = "2018-03-01"
+  date_end = ""
+  description = "Association rule mining, classification, clustering and statistical analysis on the Karnataka state secondary high school dataset to find the insights and suggest the government to function better."
+
+[[item]]
+  organization = "IIIT-B"
+  organization_url = "https://www.datacamp.com"
+  title = "Carpooling Web Application in NodeJS with Object Oriented Programming paradigm"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = "Built a web application using crowd sourcing where people traveling for same destination can share a ride saving money, fuel and pollution. Django web framework was used for building the application."
+
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Smart Canteen System"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = "The project was implemented for our hostel canteen system. It aims at reducing the waiting time of students and professors in the queue by analyzing the queue length using image processing and estimates the time to be taken by using the previous historical data."
+
+[[item]]
+  organization = "Broadcom Hackathon"
+  organization_url = "https://www.datacamp.com"
+  title = "Cloud data analytics for efficient usage of water for a smart city initiative"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = "Storage of data regarding the environmental conditions of the plants along the road dividers using Broadcom WICED sensor and doing an analysis on the data to predict the amount of water usage required for the plants and the time at which they need to be watered."
+
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Object Graph Database"
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = "Building an object graph for cricket using Object Oriented Database (OODB) model using JDBC and MySQL storage and Spring web framework. The application was hosted on IBM Bluemix."
+
+[[item]]
+  organization = "DataCamp"
+  organization_url = "App Store using Object Oriented Programming in Java"
+  title = "App Store using Object Oriented Programming in Java"
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = "Programmed database for online app store using Java, JDBC and MySql. A model similar to google play-store."
+
+[[item]]
+  organization = "DataCamp"
+  organization_url = "Object Oriented Programming in C++"
+  title = "Object Oriented Programming in C++"
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = "Implemented a full-fledged Game of Scrabble in Java making use of Object Oriented Programming."
+
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}

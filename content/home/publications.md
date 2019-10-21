@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Cisco Systems Inc."
   organization_url = ""
-  title = "Customer Success using Deep Learning"
+  title = "Customer Success using Deep Learning - Patent"
   url = "http://www.hrpub.org/download/20180930/AEB7-11812034.pdf"
   date_start = "2018-10-01"
   date_end = ""

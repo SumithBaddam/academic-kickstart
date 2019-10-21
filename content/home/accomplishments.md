@@ -18,6 +18,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Siemens India"
+  #organization_url = "Siemens India"
+  title = "Human Computer Interaction"
+  #url = ""
+  #certificate_url = "https://www.coursera.org"
+  #date_start = "2018-10-01"
+  #date_end = ""
+  description = "Virtual agent that acts as a receptionist. A 3 layered architecture that has dialogue management, video
+analysis, speech to text and text to speech models. Built deep learning model for dialogue management. Video analysis involved fate detection and recognition. Speech synthesis was using API."
 
 [[item]]
   organization = "DataCamp"

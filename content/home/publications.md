@@ -46,3 +46,6 @@ date_format = "Jan 2006"
   date_end = ""
   title = "Intelligent defect creation system using Siamese CNN LSTM techniques"
   description ="Implemented a duplicate bug detector that identifies whether a newly created bug is a duplicate of an existing bug in the Cisco Defect Tracking System and then retrieves all similar bugs from the database with an accuracy close to 90%."
+  
++++
+

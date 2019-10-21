@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Cisco Systems Inc."
   company_url = ""
   location = "Bengaluru, India"
-  date_start = "January 2017"
-  date_end = "August 2019"
+  date_start = "2017-01-01"
+  date_end = "2019-08-05"
   description = """
   Worked on building machine learning models to improve the quality of Cisco products and its internal workflow:
   
@@ -40,8 +40,8 @@ date_format = "Jan 2006"
   company = "Zettamine Labs Pvt. Ltd."
   company_url = ""
   location = "Hyderabad, India"
-  date_start = "May 2016"
-  date_end = "July 2016"
+  date_start = "2016-05-01"
+  date_end = "2016-07-30"
   description = """Built “e-commerce evaluator” product that web scraps data from various e-commerce websites and analyses customer review and product pages using sentiment analysis models and NLP to provide insights to manufacturers."""
 
 [[experience]]
@@ -49,8 +49,8 @@ date_format = "Jan 2006"
   company = "DataWeave Software Pvt. Ltd."
   company_url = ""
   location = "Bengaluru, India"
-  date_start = "May 2015"
-  date_end = "July 2015"
+  date_start = "2015-05-01"
+  date_end = "2015-07-30"
   description = """Built an automation engine to classify the ecommerce products into various categories using SVM, random forest and neural networks. Program was built to scale to 100 Million products concurrently using distributed systems."""
 
 

@@ -66,8 +66,6 @@ subtitle = ""
  css_class = ""
  
  
- Hi there !
- 
 +++
 
 {{% alert note %}}

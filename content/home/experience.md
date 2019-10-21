@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Data Scientist"
   company = "Cisco Systems Inc."
-  company_url = ""
+  company_url = "https://www.cisco.com"
   location = "Bengaluru, India"
   date_start = "2017-01-01"
   date_end = "2019-08-05"
@@ -36,23 +36,22 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Big Data Analytics Intern"
-  company = "Zettamine Labs Pvt. Ltd."
-  company_url = ""
-  location = "Hyderabad, India"
-  date_start = "2016-05-01"
-  date_end = "2016-07-30"
-  description = """Built “e-commerce evaluator” product that web scraps data from various e-commerce websites and analyses customer review and product pages using sentiment analysis models and NLP to provide insights to manufacturers."""
-
-[[experience]]
   title = "Data Semantics Intern"
   company = "DataWeave Software Pvt. Ltd."
-  company_url = ""
+  company_url = "https://dataweave.com"
   location = "Bengaluru, India"
-  date_start = "2015-05-01"
-  date_end = "2015-07-30"
+  date_start = "2016-05-01"
+  date_end = "2016-07-30"
   description = """Built an automation engine to classify the ecommerce products into various categories using SVM, random forest and neural networks. Program was built to scale to 100 Million products concurrently using distributed systems."""
 
+[[experience]]
+  title = "Big Data Analytics Intern"
+  company = "Zettamine Labs Pvt. Ltd."
+  company_url = "http://www.zettamine.com"
+  location = "Hyderabad, India"
+  date_start = "2015-05-01"
+  date_end = "2015-07-30"
+  description = """Built “e-commerce evaluator” product that web scraps data from various e-commerce websites and analyses customer review and product pages using sentiment analysis models and NLP to provide insights to manufacturers."""
 
 
 +++

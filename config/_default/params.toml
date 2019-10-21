@@ -85,6 +85,7 @@ edit_page = {repo_url = "https://github.com/SumithBaddam", repo_branch = "master
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
+
 email = "sumith.reddy2@gmail.com"
 phone = "408 812 5534"
 
@@ -94,7 +95,7 @@ address = {street = "435 W Amaryllis Drive", city = "Bloomington", region = "IN"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.183452‬", longitude = "-86.538776"}
+#coordinates = {latitude = "39.183452‬", longitude = "-86.538776"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

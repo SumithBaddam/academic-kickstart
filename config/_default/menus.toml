@@ -11,22 +11,22 @@
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 20
+  weight = 120
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 130
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 40
+  weight = 140
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 160
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

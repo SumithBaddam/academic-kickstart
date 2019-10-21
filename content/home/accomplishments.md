@@ -70,43 +70,63 @@ date_format = "Jan 2006"
   description = "Association rule mining, classification, clustering and statistical analysis on the Karnataka state secondary high school dataset to find the insights and suggest the government to function better."
 
 [[item]]
-  organization = "DataCamp"
+  organization = "IIIT-B"
   organization_url = "https://www.datacamp.com"
-  title = "Automated Essay Grading System"
+  title = "Carpooling Web Application in NodeJS with Object Oriented Programming paradigm"
   url = ""
   certificate_url = "https://www.datacamp.com"
   date_start = "2017-07-01"
   date_end = "2017-12-21"
-  description = ""
+  description = "Built a web application using crowd sourcing where people traveling for same destination can share a ride saving money, fuel and pollution. Django web framework was used for building the application."
 
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
-  title = "Automated Essay Grading System"
+  title = "Smart Canteen System"
   url = ""
   certificate_url = "https://www.datacamp.com"
   date_start = "2017-07-01"
   date_end = "2017-12-21"
-  description = ""
+  description = "The project was implemented for our hostel canteen system. It aims at reducing the waiting time of students and professors in the queue by analyzing the queue length using image processing and estimates the time to be taken by using the previous historical data."
 
 [[item]]
-  organization = "DataCamp"
+  organization = "Broadcom Hackathon"
   organization_url = "https://www.datacamp.com"
-  title = "Automated Essay Grading System"
+  title = "Cloud data analytics for efficient usage of water for a smart city initiative"
   url = ""
   certificate_url = "https://www.datacamp.com"
   date_start = "2017-07-01"
   date_end = "2017-12-21"
-  description = ""
+  description = "Storage of data regarding the environmental conditions of the plants along the road dividers using Broadcom WICED sensor and doing an analysis on the data to predict the amount of water usage required for the plants and the time at which they need to be watered."
 
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
-  title = "Automated Essay Grading System"
+  title = "Object Graph Database"
   url = ""
   #certificate_url = "https://www.datacamp.com"
   date_start = "2017-07-01"
   date_end = "2017-12-21"
-  description = ""
+  description = "Building an object graph for cricket using Object Oriented Database (OODB) model using JDBC and MySQL storage and Spring web framework. The application was hosted on IBM Bluemix."
+
+[[item]]
+  organization = "DataCamp"
+  organization_url = "App Store using Object Oriented Programming in Java"
+  title = "App Store using Object Oriented Programming in Java"
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = "Programmed database for online app store using Java, JDBC and MySql. A model similar to google play-store."
+
+[[item]]
+  organization = "DataCamp"
+  organization_url = "Object Oriented Programming in C++"
+  title = "Object Oriented Programming in C++"
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = "Implemented a full-fledged Game of Scrabble in Java making use of Object Oriented Programming."
 
 +++

@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sumith.reddy2@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,7 +70,6 @@ user_groups:
 - Visitors
 ---
 
-My name is Sumith.
+I am enrolled as a graduate student in Data Science at Indiana University Bloomington and will be graduating by May 2021.
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Prior to joining IUB, I worked as a Data Scientist at Cisco Systems Inc. for 2.5 years. My key focus was on building large-scale machine learning models to improve the quality of Cisco Software products. I have worked on 

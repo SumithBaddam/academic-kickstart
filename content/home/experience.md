@@ -18,27 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Data Scientist"
+  company = "Cisco Systems Inc."
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Bengaluru, India"
+  date_start = "January 2017"
+  date_end = "August 2019"
   description = """
-  Responsibilities include:
+  Worked on building machine learning models to improve the quality of Cisco products and its internal workflow:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Recommendation engine for identifying peer reviewers for testing on Cisco’s code review platform using NLP.
+  * Keywords extraction and document classification of service request cases using unsupervised LDA modeling.
+  * Classification of Cisco products into various categories to help the sales teams improve their revenue generation.
+  * Identification of files that get impacted when set of files are committed to repository using Association Mining.
+  * Clustering the features of products based on the text data and summary fields with NLP and K-means clustering.
+  * Software upgrade recommendations to customers using random forest and data mining.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Big Data Analytics Intern"
+  company = "Zettamine Labs Pvt. Ltd."
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Hyderabad, India"
+  date_start = "May 2016"
+  date_end = "July 2016"
+  description = """Built “e-commerce evaluator” product that web scraps data from various e-commerce websites and analyses customer review and product pages using sentiment analysis models and NLP to provide insights to manufacturers."""
+
+[[experience]]
+  title = "Data Semantics Intern"
+  company = "DataWeave Software Pvt. Ltd."
+  company_url = ""
+  location = "Bengaluru, India"
+  date_start = "May 2015"
+  date_end = "July 2015"
+  description = """Built an automation engine to classify the ecommerce products into various categories using SVM, random forest and neural networks. Program was built to scale to 100 Million products concurrently using distributed systems."""
+
+
 
 +++

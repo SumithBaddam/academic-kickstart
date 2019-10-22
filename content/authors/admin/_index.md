@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am enrolled as graduate student in Data Science at Indiana University Bloomington and will be graduating by May 2021.
+I am enrolled as graduate student in Data Science at Indiana University Bloomington and will be graduating by May 2020.
 
 I worked as a Data Scientist at Cisco Systems Inc. for 2.5 years. My key focus was on building large-scale machine learning models to improve the quality of Cisco's software products. While working at Cisco, I have filed a patent for one of the business use-case and have published 2 papers in predictive modeling using Deep Learning.
 

@@ -69,6 +69,13 @@ user_groups:
 - Researchers
 - Visitors
 
+
+image:
+  placement: 1
+  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
+  focal_point: "Center"
+  preview_only: false
+
 #During my undergraduation, I have worked on my reseach paper on "Structuring insights from customer reviews of products using NLP" working under the guidance of Prof. Dinesh Babu Jayagopi.
 ---
 I am enrolled as graduate student in Data Science at Indiana University Bloomington and will be graduating by May 2020.
@@ -78,3 +85,6 @@ I worked as Data Scientist at Cisco Systems Inc. for 2.5 years where my key focu
 Prior to joining Cisco, I was pursuing Masters and Bachelors in Technology in Information Technology from IIIT-Bangalore. 
 
 I was also a key note speaker at International Conference of Business Analytics and Intelligence at Indian Institute of Management Bangalore in 2017 and Indian Institute of Science in 2018.
+
+
+

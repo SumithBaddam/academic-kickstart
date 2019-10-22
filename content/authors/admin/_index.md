@@ -62,20 +62,16 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sumith.reddy2@gmail.com"
-  
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
 ---
-
 I am enrolled as graduate student in Data Science at Indiana University Bloomington and will be graduating by May 2020.
 
 I worked as a Data Scientist at Cisco Systems Inc. for 2.5 years. My key focus was on building large-scale machine learning models to improve the quality of Cisco's software products. While working at Cisco, I have filed a patent for one of the business use-case and have published 2 papers in predictive modeling using Deep Learning.
 
-Prior to joining Cisco, I have graduated with Masters and Bachelors in Technology in Information Technology from IIIT-Bangalore.
+Prior to joining Cisco, I have graduated with Masters and Bachelors in Technology in Information Technology from IIIT-Bangalore. While pursuing undergraduation, I have published a reseach paper on "Structuring insights from customer reviews of products using NLP" working under the guidance of Prof. Dinesh Babu Jayagopi.
 
-During summer 2016, I worked as a Data Semantics Intern at DataWeave Software. I implemented an algorithm that performs clustering of the products from various e-commerce websites and provides pricing insights to our customers. This product was built to scale to a million concurrent users using distributed scheduling of jobs.
-
-During summer 2015, I have worked as a Big data analytics intern at Zettamine Labs (Apple Inc. was the client) where I built an end-to-end product that performs web-scrapping of data, analyse the customer reviews and provides insights to the manufacturers (Apple Inc.). These insights range from "what issues are the customers facing in ipads?" to "What extent is battery drain issue affecting the customers?" My research publication was selected at the MongoDB Conference - New York, 2015.
+I was also a key note speaker at International Conference on Business Analytics and Intelligence at Indian Institute of Management Bangalore in 2017 and Indian Institute of Science in 2018. 

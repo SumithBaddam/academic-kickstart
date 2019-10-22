@@ -55,7 +55,7 @@ social:
   icon_pack: ai
   link: files/cv.pdf #https://github.com/SumithBaddam
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
@@ -67,11 +67,13 @@ email: "sumith.reddy2@gmail.com"
 user_groups:
 - Researchers
 - Visitors
+
+#During my undergraduation, I have worked on my reseach paper on "Structuring insights from customer reviews of products using NLP" working under the guidance of Prof. Dinesh Babu Jayagopi.
 ---
 I am enrolled as graduate student in Data Science at Indiana University Bloomington and will be graduating by May 2020.
 
-I worked as a Data Scientist at Cisco Systems Inc. for 2.5 years. My key focus was on building large-scale machine learning models to improve the quality of Cisco's software products. While working at Cisco, I have filed a patent for one of the business use-case and have published 2 papers in predictive modeling using Deep Learning.
+I worked as Data Scientist at Cisco Systems Inc. for 2.5 years where my key focus was on building large-scale machine learning models to improve the quality of Cisco's products. While working at Cisco, I have filed a patent for one of the business use-cases and have published 2 papers in predictive modeling using Deep Learning.
 
-Prior to joining Cisco, I have graduated with Masters and Bachelors in Technology in Information Technology from IIIT-Bangalore. While pursuing undergraduation, I have published a reseach paper on "Structuring insights from customer reviews of products using NLP" working under the guidance of Prof. Dinesh Babu Jayagopi.
+Prior to joining Cisco, I was pursuing Masters and Bachelors in Technology in Information Technology from IIIT-Bangalore. 
 
-I was also a key note speaker at International Conference on Business Analytics and Intelligence at Indian Institute of Management Bangalore in 2017 and Indian Institute of Science in 2018. 
+I was also a key note speaker at International Conference of Business Analytics and Intelligence at Indian Institute of Management Bangalore in 2017 and Indian Institute of Science in 2018.

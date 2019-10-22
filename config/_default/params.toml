@@ -85,6 +85,13 @@ edit_page = {repo_url = "https://github.com/SumithBaddam", repo_branch = "master
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
+contact_links = [
+#  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  {icon = "envelope", icon_pack = "fas", name = "sumith.reddy2@gmail.com", link = "mailto:sumith.reddy2@gmail.com"},
+#  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+#  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+#  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  ]
 
 phone = "408 812 5534"
 
@@ -109,13 +116,13 @@ address = {street = "435 W Amaryllis Drive", city = "Bloomington", region = "IN"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
+#contact_links = [
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   {icon = "envelope", icon_pack = "fas", name = "Email:", link = "mailto:sumith.reddy2@gmail.com"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 #  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+# ]
 
 ############################
 ## Social

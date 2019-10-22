@@ -70,10 +70,12 @@ user_groups:
 - Visitors
 ---
 
-I am enrolled as a graduate student in Data Science at Indiana University Bloomington and will be graduating by May 2021.
+I am enrolled as graduate student in Data Science at Indiana University Bloomington and will be graduating by May 2021.
 
-I worked as a Data Scientist at Cisco Systems Inc. for 2.5 years. My key focus was on building large-scale machine learning models to improve the quality of Cisco's software products. While working at Cisco, I have filed a patent and have published 2 papers in predictive modeling.
+I worked as a Data Scientist at Cisco Systems Inc. for 2.5 years. My key focus was on building large-scale machine learning models to improve the quality of Cisco's software products. While working at Cisco, I have filed a patent for one of the business use-case and have published 2 papers in predictive modeling using Deep Learning.
 
-Prior to joining Cisco, I have graduated with Masters and Bachelors in Technology in Information Technology from IIIT-Bangalore. 
+Prior to joining Cisco, I have graduated with Masters and Bachelors in Technology in Information Technology from IIIT-Bangalore.
 
-Internships - 
+During summer 2016, I worked as a Data Semantics Intern at DataWeave Software. I implemented an algorithm that performs clustering of the products from various e-commerce websites and provides pricing insights to our customers. This product was built to scale to a million concurrent users using distributed scheduling of jobs.
+
+During summer 2015, I have worked as a Big data analytics intern at Zettamine Labs (Apple Inc. was the client) where I built an end-to-end product that performs web-scrapping of data, analyse the customer reviews and provides insights to the manufacturers (Apple Inc.). These insights range from "what issues are the customers facing in ipads?" to "What extent is battery drain issue affecting the customers?" My research publication was selected at the MongoDB Conference - New York, 2015.

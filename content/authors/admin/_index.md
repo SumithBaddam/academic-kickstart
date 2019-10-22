@@ -14,16 +14,17 @@ role: Data Science Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Indiana University
+- name: Indiana University Bloomington
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, predictive modeling and natural language processing.
 
 interests:
 - Machine Learning
 - Natural Language Processing
 - Predictive modeling
+- Deep Learning
 
 education:
   courses:
@@ -45,12 +46,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:sumith.reddy2@gmail.com" #'#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/SumithBaddam
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sumith-reddy-baddam/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/SumithBaddam
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf #https://github.com/SumithBaddam

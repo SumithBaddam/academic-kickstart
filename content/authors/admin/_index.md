@@ -70,12 +70,6 @@ user_groups:
 - Visitors
 
 
-image:
-  placement: 1
-  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
-  focal_point: "Center"
-  preview_only: false
-
 #During my undergraduation, I have worked on my reseach paper on "Structuring insights from customer reviews of products using NLP" working under the guidance of Prof. Dinesh Babu Jayagopi.
 ---
 I am enrolled as graduate student in Data Science at Indiana University Bloomington and will be graduating by May 2020.

@@ -15,8 +15,8 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "file-code"
-  icon_pack = "fab"
+  icon = "code"
+  icon_pack = "fas"
   name = "Programming Languages"
   description = "Python, Java, R, C++, C, MATLAB"
   

@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Bengaluru, India"
   date_start = "2016-05-01"
   date_end = "2016-07-30"
-  description = """I implemented an algorithm that performs clustering of the products from various e-commerce websites and provides pricing insights to our customers. This product was built to scale to 10 Million concurrent users using distributed scheduling of jobs. I also built an automation engine that classifies the products into various categories using SVM, random forest and neural networks. I managed to improve the accuracy of the clasification models from 81% to 90% appoximately."""
+  description = """I implemented an algorithm that performs clustering of the products from various e-commerce websites and provides pricing insights to our customers. This product was built to scale to 10 Million concurrent users using distributed scheduling of jobs. I also built an automation engine that classifies the products into various categories using SVM, random forest and neural networks. I managed to improve the accuracy of the classification models from 81% to 90%."""
 
 [[experience]]
   title = "Big Data Analytics Intern"
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   location = "Hyderabad, India"
   date_start = "2015-05-01"
   date_end = "2015-07-30"
-  description = """I built an end-to-end product that performs web-scrapping of data, analyse the customer reviews and provides insights to the manufacturers (Apple Inc.). These insights range from “what issues are the customers facing in ipads?” to “What extent is battery drain issue affecting the customers?” My research publication on building this product using Natural Language Processing was selected at the MongoDB Conference - New York, 2015."""
+  description = """I built an end-to-end product that performs web-scrapping of data, analyse the customer reviews and provides insights to the manufacturers (Apple Inc.). These insights range from “what issues are the customers facing in iPad?” to “What extent is battery drain issue affecting the customers?” My research publication on building this product using Natural Language Processing was selected at the MongoDB Conference - New York, 2015."""
 
 
 +++

@@ -80,7 +80,7 @@ date_format = "Jan 2006"
   description = "Built a web application using crowd sourcing where people traveling for same destination can share a ride saving money, fuel and pollution. Django web framework was used for building the application."
 
 [[item]]
-  organization = "DataCamp"
+  organization = "IIIT-B"
   organization_url = "https://www.iiitb.ac.in"
   title = "Smart Canteen System"
   #url = ""
@@ -120,7 +120,7 @@ date_format = "Jan 2006"
   description = "Programmed database for online app store using Java, JDBC and MySql. A model similar to google play-store."
 
 [[item]]
-  organization = "DataCamp"
+  organization = "IIIT-B"
   organization_url = "https://www.iiitb.ac.in"
   title = "Object Oriented Programming in C++"
   #url = ""

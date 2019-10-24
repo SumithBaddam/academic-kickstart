@@ -72,7 +72,7 @@ user_groups:
 
 #During my undergraduation, I have worked on my reseach paper on "Structuring insights from customer reviews of products using NLP" working under the guidance of Prof. Dinesh Babu Jayagopi.
 ---
-I am enrolled as graduate student in Data Science at Indiana University Bloomington and will be graduating by May 2020.
+I am enrolled as graduate student in Data Science at Indiana University Bloomington.
 
 I worked as Data Scientist at Cisco Systems Inc. for 2.5 years where my key focus was on building large-scale machine learning models to improve the quality of Cisco's products. While working at Cisco, I have filed a patent for one of the business use-cases and have published 2 papers in predictive modeling using Deep Learning.
 

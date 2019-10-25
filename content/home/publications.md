@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Cisco Systems Inc."
-  organization_url = ""
+  organization_url = "https://www.cisco.com/"
   title = "Customer Success using Deep Learning - Patent"
   url = "http://www.hrpub.org/download/20180930/AEB7-11812034.pdf"
   date_start = "2018-10-01"
@@ -29,8 +29,8 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "Cisco Systems Inc."
-  organization_url = "https://www.edx.org"
+  organization = "ICBAI 2017"
+  organization_url = "http://dcal.iimb.ernet.in/baiconf2017/"
   title = "Prediction of issues customers face in a software using unsupervised learning"
   url = "http://dcal.iimb.ernet.in/baiconf2017/"
   #certificate_url = "https://www.edx.org"
@@ -39,8 +39,8 @@ date_format = "Jan 2006"
   description = "Implemented Deep Neural Network model in TensorFlow which predicts the issues customers might face in a Cisco product post its release, helping developer teams fix them prior with an accuracy of 95% on Cisco’s Next-Gen devices."
   
 [[item]]
-  organization = "Cisco Systems Inc."
-  organization_url = "https://www.edx.org"
+  organization = "ICBAI 2018"
+  organization_url = "http://www.mgmt.iisc.ac.in/~icbai2018/"
   url = "http://www.mgmt.iisc.ac.in/~icbai2018/"
   date_start = "2018-03-01"
   date_end = ""

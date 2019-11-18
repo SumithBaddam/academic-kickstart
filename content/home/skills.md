@@ -48,6 +48,6 @@ subtitle = ""
   icon = "shield-alt"
   icon_pack = "fas"
   name = "Security"
-  description = "Softare Security, WebApp Security"
+  description = "Software Security, WebApp Security"
 
 +++

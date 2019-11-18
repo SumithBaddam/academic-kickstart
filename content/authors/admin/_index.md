@@ -28,8 +28,8 @@ interests:
 
 education:
   courses:
-  - course: MS in Data Science
-    institution: Indiana University
+  - course: Master of Science in Data Science
+    institution: Indiana University Bloomington
     year: 2021
   - course: M.Tech in Information Technology
     institution: International Institute of Information Technology Bangalore

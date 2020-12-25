@@ -30,6 +30,15 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  organization = "Indiana University Bloomington"
+  organization_url = "https://datascience.indiana.edu/"
+  title = "NeuralCook – Image2Ingredients and cooking recommendation using Deep Learning"
+  url = "https://medium.com/neuralcook/neuralcook-image2ingredients-and-cooking-recommendation-using-deep-learning-94b51d4429c9"
+  date_start = "2020-03-01"
+  date_end = ""
+  description = "Deep learning application to identify ingredients from cooking dishes images and recommend dishes to cook, given a set of ingredients. This application leverages NLP and Computer Vision to learn semantic knowledge using joint embeddings."
+
+[[item]]
   organization = "IIIT-B"
   organization_url = "https://www.iiitb.ac.in"
   title = "Object Recognition using Deep Neural Networks"

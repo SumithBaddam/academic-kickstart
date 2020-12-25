@@ -18,8 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "SDE-ML Intern"
+  company = "Amazon Web Services"
+  company_url = "https://aws.amazon.com/"
+  location = "Seattle, United States"
+  date_start = "2020-06-01"
+  date_end = "2020-08-30"
+  description = """Built an end-to-end machine learning application/feature for AWS CloudFormation service to estimate resource provision time. The pipeline consists of data extraction from S3 buckets, pre-processing using lambda functions and the prediction models built and hosted on Amazon SageMaker. I also integrated this featute into the AWS CloudFormation service's workflow."""
+
+
+
+
+[[experience]]
   title = "Data Scientist"
-  company = "Cisco Systems Inc."
+  company = "Cisco Systems"
   company_url = "https://www.cisco.com"
   location = "Bengaluru, India"
   date_start = "2017-01-01"

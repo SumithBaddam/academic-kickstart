@@ -34,7 +34,8 @@ date_format = "Jan 2020"
   url = "https://github.com/SumithBaddam/NeuralCook/blob/master/NeuralCook.pdf"
   date_start = "2020-05-01"
   date_end = ""
-  title = "Deep learning application to identify ingredients from cooking dishes images and recommend dishes to cook, given a set of ingredients. This application leverages NLP and Computer Vision to learn semantic knowledge using joint embeddings."
+  title = "NeuralCook – Image2Ingredients and cooking recommendation using Deep Learning"
+  description = "Deep learning application to identify ingredients from cooking dishes images and recommend dishes to cook, given a set of ingredients. This application leverages NLP and Computer Vision to learn semantic knowledge using joint embeddings."
 
 [[item]]
   organization = "ICBAI 2017"

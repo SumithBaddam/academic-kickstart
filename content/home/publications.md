@@ -23,10 +23,18 @@ date_format = "Jan 2006"
   organization_url = "https://www.cisco.com/"
   title = "Customer Success using Deep Learning - Patent"
   url = "http://www.hrpub.org/download/20180930/AEB7-11812034.pdf"
-  date_start = "2018-10-01"
+  date_start = "2018-11-30"
   date_end = ""
   description = "Built a prediction model for prioritizing the bugs identified during testing phases whether to be fixed fast or can wait. Unstructured bug attributes like descriptions, error log files along with 170 structured fields were used for building the system. It was implemented using LSTM and CNN in Keras and TensorFlow."
 
+
+[[item]]
+  organization = "IUB 2020"
+  organization_url = ""
+  url = "https://github.com/SumithBaddam/NeuralCook/blob/master/NeuralCook.pdf"
+  date_start = "2020-05-01"
+  date_end = ""
+  title = "Deep learning application to identify ingredients from cooking dishes images and recommend dishes to cook, given a set of ingredients. This application leverages NLP and Computer Vision to learn semantic knowledge using joint embeddings."
 
 [[item]]
   organization = "ICBAI 2017"
@@ -42,7 +50,7 @@ date_format = "Jan 2006"
   organization = "ICBAI 2018"
   organization_url = "http://www.mgmt.iisc.ac.in/~icbai2018/"
   url = "http://www.mgmt.iisc.ac.in/~icbai2018/"
-  date_start = "2018-12-21"
+  date_start = "2018-11-21"
   date_end = ""
   title = "Intelligent defect creation system using Siamese CNN LSTM techniques"
   description ="Implemented a duplicate bug detector that identifies whether a newly created bug is a duplicate of an existing bug in the Cisco Defect Tracking System and then retrieves all similar bugs from the database with an accuracy close to 90%."

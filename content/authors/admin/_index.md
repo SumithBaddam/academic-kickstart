@@ -25,12 +25,13 @@ interests:
 - Natural Language Processing
 - Predictive modeling
 - Deep Learning
+- Statistics
 
 education:
   courses:
   - course: Master of Science in Data Science
     institution: Indiana University Bloomington
-    year: 2021
+    year: 2020
   - course: M.Tech in Information Technology
     institution: International Institute of Information Technology Bangalore
     year: 2017
@@ -72,13 +73,8 @@ user_groups:
 
 #During my undergraduation, I have worked on my reseach paper on "Structuring insights from customer reviews of products using NLP" working under the guidance of Prof. Dinesh Babu Jayagopi.
 ---
-I am enrolled as graduate student in Data Science at Indiana University Bloomington.
+I am a Machine Learning scientist and an enthusiast. I completed two master's degrees in Data Science from Indiana University Bloomington and IIIT Bangalore. 
 
-I worked as Data Scientist at Cisco Systems Inc. for 2.5 years where my key focus was on building large-scale machine learning models to improve the quality of Cisco's products. While working at Cisco, I have filed a patent for one of the business use-cases and have published 2 papers in predictive modeling using Deep Learning.
+I worked as an intern at Amazon Web Services during summer of 2020 on building an end-to-end machine learning application for AWS CloudFormation to estimate resource provision time for customers. Prior to that, I worked as a Data Scientist at Cisco Systems for 2.5 years where my key focus was on building large-scale machine learning models to improve the quality of Cisco's products. While working at Cisco, I have filed a patent for building a customer centric bug prioritization feature to enable faster resolution for issues faced by customers and have published 2 papers related to predictive modeling using Deep Learning algorithms.
 
-Prior to joining Cisco, I was pursuing Masters and Bachelors in Technology in Information Technology from IIIT-Bangalore. 
-
-I was also a key note speaker at International Conference of Business Analytics and Intelligence at Indian Institute of Management Bangalore in 2017 and Indian Institute of Science in 2018.
-
-
-
+I was also a key note speaker at International Conference of Business Analytics and Intelligence at Indian Institute of Management Bangalore in 2017 and at Indian Institute of Science in 2018.

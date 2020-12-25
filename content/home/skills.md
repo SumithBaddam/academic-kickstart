@@ -39,7 +39,7 @@ subtitle = ""
   description = "MongoDB, MySQL, AWS, JDBC, NoSQL, ZoDB, Google Cloud"
   
 [[feature]]
-  icon = "database"
+  icon = "code"
   icon_pack = "fas"
   name = "Cloud Platforms"
   description = "Amazon Web Services, Google Cloud"

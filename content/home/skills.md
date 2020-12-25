@@ -18,31 +18,31 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Programming Languages"
-  description = "Python, Java, R, C++, C, MATLAB"
+  description = "Python, R, Java, C++, C, MATLAB"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "TensorFlow, Keras, Tableau, OpenCV, Scikit-learn"  
+  description = "TensorFlow, Keras, OpenCV, Scikit-learn, Numpy, Tableau"  
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Web development"
-  description = "Django, AngularJS, Flask, Javascript, HTML, JDBC"
+  description = "Django, Flask, React, AngularJS, Javascript, HTML"
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "Database"
-  description = "MongoDB, MySQL, JDBC, NoSQL, AWS, ZoDB, Parse Cloud"
+  description = "MongoDB, MySQL, AWS, JDBC, NoSQL, ZoDB, Google Cloud"
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "Platforms"
-  description = "Linux, Unix"
+  name = "Cloud Platforms"
+  description = "Amazon Web Services, Google Cloud"
   
 [[feature]]
   icon = "shield-alt"

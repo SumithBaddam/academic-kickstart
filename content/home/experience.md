@@ -17,16 +17,25 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
 [[experience]]
-  title = "SDE-ML Intern"
-  company = "Amazon Web Services"
+  title = "Data Scientist"
+  company = "Amazon Alexa Shopping"
+  company_url = "https://www.alexa.com/"
+  location = "Seattle, United States"
+  date_start = "2021-04-05"
+  description = """I primarily work on enabling/improving Alexa Speech Recognition (ASR) for incoming traffic related to Shopping domain on Alexa for multiple locales. I build machine learning models to improve the ASR for single-turn and multi-turn conversations, perform statistical tests (A/B testing) for launch of new features and perform statistical analysis for identifying customer prone errors and implement solutions for improving the customer experience while having conversations with Alexa."""
+
+
+[[experience]]
+  title = "Software Development Engineer (ML)"
+  company = "Amazon Web Services (AWS)"
   company_url = "https://aws.amazon.com/"
   location = "Seattle, United States"
   date_start = "2020-06-01"
-  date_end = "2020-08-30"
-  description = """Built an end-to-end machine learning application/feature for AWS CloudFormation service to estimate resource provision time. The pipeline consists of data extraction from S3 buckets, pre-processing using lambda functions and the prediction models built and hosted on Amazon SageMaker. I also integrated this featute into the AWS CloudFormation service's workflow."""
-
-
+  date_end = "2021-04-04"
+  description = """Worked on building machine learning applications and pipelines for AWS CloudFormation service. I built an end-to-end machine learning application/feature to estimate the resource provision time for deploying the cloud infrastructure on AWS. The pipeline consists of weekly jobs for data extraction from S3 buckets, pre-processing using lambda functions and the prediction models built and hosted on Amazon SageMaker. I also productionized this application into the AWS CloudFormation service's workflow."""
 
 
 [[experience]]

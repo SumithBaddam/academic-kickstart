@@ -24,7 +24,13 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "TensorFlow, Keras, OpenCV, Scikit-learn, Numpy, Tableau"  
+  description = "TensorFlow, Keras, OpenCV, AWS SageMaker, Scikit-learn, Tableau"  
+  
+[[feature]]
+  icon = "shield-alt"
+  icon_pack = "fas"
+  name = "Security"
+  description = "Software Security, WebApp Security"
   
 [[feature]]
   icon = "laptop-code"
@@ -36,18 +42,12 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "Database"
-  description = "MongoDB, MySQL, AWS, JDBC, NoSQL, ZoDB, Google Cloud"
+  description = "AWS, SQL, MongoDB, Google Cloud, JDBC, NoSQL, ZoDB"
   
 [[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "Cloud Platforms"
-  description = "Amazon Web Services, Google Cloud"
+  description = "Amazon Web Services (AWS), Google Cloud Platform (GCP)"
   
-[[feature]]
-  icon = "shield-alt"
-  icon_pack = "fas"
-  name = "Security"
-  description = "Software Security, WebApp Security"
-
 +++

@@ -19,17 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Cisco Systems Inc."
-  organization_url = "https://www.cisco.com/"
-  title = "Customer Success using Deep Learning - Patent"
-  url = "http://www.hrpub.org/download/20180930/AEB7-11812034.pdf"
-  date_start = "2018-11-30"
+  organization = "Advances in Economics and Business"
+  organization_url = "https://www.hrpub.org/journals/journal_info.php?jcode=aeb"
+  title = "Customer Success Using Deep Learning"
+  url = "https://github.com/SumithBaddam/public-papers/blob/main/Customer_Success_Using_Deep_Learning.pdf"
+  #certificate_url = ""
+  date_start = "2018-09-01"
   date_end = ""
-  description = "Built a prediction model for prioritizing the bugs identified during testing phases whether to be fixed fast or can wait. Unstructured bug attributes like descriptions, error log files along with 170 structured fields were used for building the system. It was implemented using LSTM and CNN in Keras and TensorFlow."
-
+  description = "Explored using Deep Learning models to predict and enhance customer success metrics in business environments. Implemented models that analyze customer data to identify success patterns and recommend improvements, with applications for corporate decision-making."
 
 [[item]]
-  organization = "IUB 2020"
+  organization = "Indiana University Bloomington 2020"
   organization_url = ""
   url = "https://github.com/SumithBaddam/NeuralCook/blob/master/NeuralCook.pdf"
   date_start = "2020-05-01"

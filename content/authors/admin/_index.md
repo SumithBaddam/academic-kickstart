@@ -52,7 +52,7 @@ social:
   link: https://www.linkedin.com/in/sumith-reddi-baddam/
 - icon: github
   icon_pack: fab
-  link: https://www.linkedin.com/in/sumith-reddi-baddam/
+  link: https://github.com/SumithBaddam
 - icon: github
   icon_pack: fab
   link: https://www.researchgate.net/profile/Sumith-Reddi-Baddam-2

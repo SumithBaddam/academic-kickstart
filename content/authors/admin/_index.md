@@ -14,7 +14,7 @@ role: Applied Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Amazon Ads
+- name: Amazon
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

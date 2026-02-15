@@ -20,12 +20,21 @@ date_format = "Jan 2006"
 
 
 [[experience]]
+  title = "Applied Scientist"
+  company = "Amazon"
+  company_url = "https://advertising.amazon.com/"
+  location = "Seattle, United States"
+  date_start = "2023-10-16"
+  description = """I am an Applied Scientist at Amazon Ads, where I develop and optimize machine learning models to improve advertising performance and customer experience. My work involves building scalable algorithms for ad relevance, ranking, and targeting, conducting rigorous A/B tests to evaluate new features, and performing statistical analyses to identify patterns and improve system accuracy."""
+
+[[experience]]
   title = "Data Scientist"
-  company = "Amazon Alexa Shopping"
+  company = "Amazon Alexa"
   company_url = "https://www.alexa.com/"
   location = "Seattle, United States"
   date_start = "2021-04-05"
-  description = """I primarily work on enabling/improving Alexa Speech Recognition (ASR) for incoming traffic related to Shopping domain on Alexa for multiple locales. I build machine learning models to improve the ASR for single-turn and multi-turn conversations, perform statistical tests (A/B testing) for launch of new features and perform statistical analysis for identifying customer prone errors and implement solutions for improving the customer experience while having conversations with Alexa."""
+  date_end = "2023-10-15"
+  description = """I worked at Amazon Alexa focusing on enhancing speech recognition for the AI Shopping Agent through conversational modeling."""
 
 
 [[experience]]
@@ -35,8 +44,7 @@ date_format = "Jan 2006"
   location = "Seattle, United States"
   date_start = "2020-06-01"
   date_end = "2021-04-04"
-  description = """Worked on building machine learning applications and pipelines for AWS CloudFormation service. I built an end-to-end machine learning application/feature to estimate the resource provision time for deploying the cloud infrastructure on AWS. The pipeline consists of weekly jobs for data extraction from S3 buckets, pre-processing using lambda functions and the prediction models built and hosted on Amazon SageMaker. I also productionized this application into the AWS CloudFormation service's workflow."""
-
+  description = """Built machine learning applications and pipelines for AWS CloudFormation service (Infrastructure as a code). I built end-to-end machine learning applications to estimate the resource provision time for deploying the cloud infrastructure on AWS. The pipeline consists of weekly jobs for data extraction from S3 buckets, pre-processing using lambda functions and the prediction models built and hosted on Amazon SageMaker. I also productionized this application into the AWS CloudFormation service's workflow."""
 
 [[experience]]
   title = "Data Scientist"
@@ -46,7 +54,7 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = "2019-08-05"
   description = """
-  Worked on building machine learning models to improve the quality of Cisco products and its internal workflow:
+  Built machine learning models to improve the quality of Cisco products and its internal workflow:
   
   * Recommendation engine for identifying peer reviewers for testing on Cisco’s code review platform using NLP.
   * Keywords extraction and document classification of service request cases using unsupervised LDA modeling.

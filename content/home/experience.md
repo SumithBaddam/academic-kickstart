@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   title = "Applied Scientist"
   company = "Amazon"
   company_url = "https://advertising.amazon.com/"
-  location = "Seattle, United States"
+  location = "Virginia, United States"
   date_start = "2023-10-16"
   description = """I am an Applied Scientist at Amazon Ads, where I develop and optimize machine learning models to improve advertising performance and customer experience. My work involves building scalable algorithms for ad relevance, ranking, and targeting, conducting rigorous A/B tests to evaluate new features, and performing statistical analyses to identify patterns and improve system accuracy."""
 

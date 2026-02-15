@@ -10,20 +10,23 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist
+role: Applied Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Amazon Alexa Shopping
+- name: Amazon Ads
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, predictive modeling and natural language processing.
+bio: My research interests include Deep Learning, Large Language Models, Artificial Intelligence, Agentic AI, Machine Learning.
 
 interests:
 - Deep Learning
-- Natural Language Processing
+- Large Language Models
+- Artificial Intelligence
+- Agentic AI
 - Machine Learning
+- Natural Language Processing
 - Predictive modeling
 - Statistics
 
@@ -32,10 +35,10 @@ education:
   - course: Master of Science in Data Science
     institution: Indiana University Bloomington
     year: 2020
-  - course: M.Tech in Information Technology
+  - course: Master of Technology in Information Technology
     institution: International Institute of Information Technology Bangalore
     year: 2017
-  - course: B.Tech in Information Technology
+  - course: Bachelor of Technology in Information Technology
     institution: International Institute of Information Technology Bangalore
     year: 2017
 
@@ -46,10 +49,13 @@ education:
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/sumith-reddy-baddam/
+  link: https://www.linkedin.com/in/sumith-reddi-baddam/
 - icon: github
   icon_pack: fab
-  link: https://github.com/SumithBaddam
+  link: https://www.linkedin.com/in/sumith-reddi-baddam/
+- icon: github
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Sumith-Reddi-Baddam-2
 - icon: envelope
   icon_pack: fas
   link: "mailto:sumith.reddy2@gmail.com" #'#contact'  # For a direct email link, use "mailto:test@example.org".
@@ -73,10 +79,4 @@ user_groups:
 
 #During my undergraduation, I have worked on my reseach paper on "Structuring insights from customer reviews of products using NLP" working under the guidance of Prof. Dinesh Babu Jayagopi.
 ---
-I am working as a Data Scientist in Amazon Alexa. I primarily work on enabling/improving Alexa Speech Recognition (ASR) for Shopping domain. I build machine learning models to improve the ASR for single-turn and multi-turn conversations, perform statistical tests (A/B testing) for launch of new features and perform statistical analysis for identifying customer prone errors and implement solutions for improving the customer experience while having conversations with Alexa realted to Shopping domain. 
-
-Prior to joining Amazon Alexa, I previously worked as a Software Development Engineer at Amazon Web Services (AWS) primarily on building end-to-end machine learning applications and pipelines for AWS CloudFormation feature to estimate resource provision time for customers. 
-
-I completed two master's degrees in Data Science from Indiana University Bloomington and IIIT Bangalore. Prior to this, I worked as a Data Scientist at Cisco Systems India for 2.5 years where my key focus was on building large-scale machine learning models to improve the quality of Cisco's products, internal workflows and productivity of engineers. While working at Cisco, I have filed a patent for building a customer centric bug prioritization feature to enable faster resolution for issues faced by customers and have published 2 papers related to predictive modeling using Deep Learning algorithms.
-
-I was also a key note speaker at International Conference of Business Analytics and Intelligence at Indian Institute of Management Bangalore in 2017 and at Indian Institute of Science in 2018.
+I am an Applied Scientist at Amazon Ads, where I develop and optimize machine learning models to improve advertising performance and customer experience. My work involves building scalable algorithms for ad relevance, ranking, and targeting, conducting rigorous A/B tests to evaluate new features, and performing statistical analyses to identify patterns and improve system accuracy. Prior to my current role, I worked at Amazon Alexa, focusing on enhancing speech recognition for the AI Shopping Agent through conversational modeling and at Amazon Web Services (AWS), where I developed end-to-end Machine Learning pipelines for Infrastructure as a Code service (CloudFormation) to estimate resource provisioning times. I hold two master’s degrees in Data Science from Indiana University Bloomington and in Information Technology from IIIT Bangalore, and previously spent 2.5 years as a Data Scientist at Cisco Systems India, building large-scale deep learning models to improve product quality, engineer productivity, and customer experience. During my time at Cisco, I published research paper on a customer-centric bug prioritization system with predictive modeling using deep learning. I have also delivered keynote talks at the International Conference of Business Analytics and Intelligence at IIM Bangalore (2017) and at IISc Bangalore (2018).

@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Advances in Economics and Business"
-  organization_url = "https://www.hrpub.org/journals/journal_info.php?jcode=aeb"
+  organization_url = "https://www.hrpub.org/journals/article_info.php?aid=7421"
   title = "Customer Success Using Deep Learning"
   url = "https://github.com/SumithBaddam/public-papers/blob/main/Customer_Success_Using_Deep_Learning.pdf"
   #certificate_url = ""

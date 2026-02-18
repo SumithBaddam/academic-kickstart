@@ -59,6 +59,5 @@ Implemented models that analyze customer data to identify success patterns and r
   title = "Intelligent defect creation system using Siamese CNN LSTM techniques"
   description ="Implemented a duplicate bug detector that identifies whether a newly created bug is a duplicate of an existing bug in the Cisco Defect Tracking System and then retrieves all similar bugs from the database with an accuracy close to 90%."
 
-  - [Customer Success Using Deep Learning (2018)](/publication/customer-success-deep-learning/)
 +++
 

@@ -18,6 +18,8 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+- [Customer Success Using Deep Learning (2018)](/publication/customer-success-deep-learning/)
+  
 [[item]]
   organization = "Advances in Economics and Business"
   organization_url = "https://www.hrpub.org/journals/article_info.php?aid=7421"

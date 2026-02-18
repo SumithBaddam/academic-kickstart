@@ -27,8 +27,10 @@ date_format = "Jan 2006"
   #certificate_url = ""
   date_start = "2018-09-01"
   date_end = ""
-  description = "Explored using Deep Learning models to predict and enhance customer success metrics in business environments. Implemented models that analyze customer data to identify success patterns and recommend improvements, with applications for corporate decision-making."
-
+description = """
+Explored using Deep Learning models to predict and enhance customer success metrics in business environments.
+Implemented models that analyze customer data to identify success patterns and recommend improvements, with applications for corporate decision-making.
+"""
 [[item]]
   organization = "Indiana University Bloomington 2020"
   organization_url = ""
@@ -56,6 +58,7 @@ date_format = "Jan 2006"
   date_end = ""
   title = "Intelligent defect creation system using Siamese CNN LSTM techniques"
   description ="Implemented a duplicate bug detector that identifies whether a newly created bug is a duplicate of an existing bug in the Cisco Defect Tracking System and then retrieves all similar bugs from the database with an accuracy close to 90%."
-  
+
+  - [Customer Success Using Deep Learning (2018)](/publication/customer-success-deep-learning/)
 +++
 

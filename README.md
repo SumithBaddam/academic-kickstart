@@ -1,42 +1,40 @@
-# [Academic Kickstart](https://sourcethemes.com/academic/)
+# sumithbaddam.com — rebuild
 
-**Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
+A plain static site (HTML/CSS/JS, no build step, no framework) — drops straight
+into your existing Netlify + GitHub setup.
 
-**Academic Kickstart** provides a minimal template to kickstart your new website.
+## Files
+- `index.html` — all page content
+- `styles.css` — all styling
+- `script.js` — nav-highlighting and the "show more projects" toggle
+- `files/cv.pdf` — **you need to add your résumé PDF here** (path referenced by the "Download résumé" button)
 
-- [**Get Started**](#install)
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+## What changed from the old site
+- Title updated to **Senior Applied Scientist**, location updated to **Seattle, WA**
+- Fixed the Contact section: Email/LinkedIn/GitHub/ResearchGate now link to the
+  correct real destinations (the old site pointed "Email" and "GitHub" both at
+  the homepage)
+- Removed the street address and phone number from the public Contact section
+  for privacy — add them back in `index.html` under `<footer class="contact-section">`
+  if you want them visible
+- Added proper meta description / Open Graph tags for link previews
+- Trimmed the Projects grid to 4 featured projects with a "Show more" toggle
+  for the remaining 7, so the page reads cleaner for a first-time visitor
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+## Deploying on Netlify (two options)
 
-## Install
+**Option A — replace your existing repo's content (recommended, keeps your current Netlify project/domain):**
+1. In your GitHub repo (the one connected to your Netlify project), delete the old Hugo site files, or better, create this as a fresh branch first so you can compare.
+2. Copy `index.html`, `styles.css`, `script.js`, and the `files/` folder into the repo root.
+3. Since this is a plain static site (no build command needed), go to Netlify → Site settings → Build & deploy → Build settings, and clear out any Hugo build command; set the **Publish directory** to the repo root (or wherever you place these files).
+4. Commit and push — Netlify will redeploy automatically.
 
-You can choose from one of the following four methods to install:
+**Option B — quick preview without touching your repo yet:**
+1. Go to [app.netlify.com/drop](https://app.netlify.com/drop)
+2. Drag this whole folder in — Netlify gives you a temporary live URL instantly so you can review it before committing to your main site.
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
-
-## Ecosystem
-
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
-
-## License
-
-Copyright 2017-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+## Next steps you'll want to do
+- Add a real headshot photo and swap the "SB" avatar placeholder for an `<img>`
+- Add your actual `files/cv.pdf`
+- Consider a custom Open Graph banner image (1200×630px) instead of relying on the small avatar icon
+- Double-check all external links (Amazon Ads, AWS, Cisco, publication PDFs, etc.)

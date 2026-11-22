@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Customer Success Using Deep Learning — Sumith Reddi Baddam</title>
+<meta name="description" content="Customer Success Using Deep Learning, by Shobha Deepthi V, Sumith Reddi Baddam and Vignesh Thangaraju. Advances in Economics and Business 6(6): 332–338, 2018.">
+<link rel="canonical" href="https://sumithbaddam.com/papers/customer-success-using-deep-learning.html">
+<meta name="citation_title" content="Customer Success Using Deep Learning">
+<meta name="citation_author" content="Shobha Deepthi V">
+<meta name="citation_author" content="Sumith Reddi Baddam">
+<meta name="citation_author" content="Vignesh Thangaraju">
+<meta name="citation_author_institution" content="Cisco Systems India Pvt. Ltd.">
+<meta name="citation_author_institution" content="Cisco Systems India Pvt. Ltd.">
+<meta name="citation_author_institution" content="Cisco Systems India Pvt. Ltd.">
+<meta name="citation_publication_date" content="2018">
+<meta name="citation_journal_title" content="Advances in Economics and Business">
+<meta name="citation_volume" content="6">
+<meta name="citation_issue" content="6">
+<meta name="citation_firstpage" content="332">
+<meta name="citation_lastpage" content="338">
+<meta name="citation_doi" content="10.13189/aeb.2018.060607">
+<meta name="citation_abstract_html_url" content="https://sumithbaddam.com/papers/customer-success-using-deep-learning.html">
+<meta name="citation_pdf_url" content="https://sumithbaddam.com/papers/customer-success-using-deep-learning.pdf">
+<meta name="citation_keywords" content="Customer Success, Deep Learning">
+<meta name="citation_language" content="en">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{--bg:#FAF9F6;--ink:#171A1F;--muted:#5F636B;--line:#E6E2D8;--accent:#0B6E6E;--accent-soft:#E2EFED;--card:#FFFFFF}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:'IBM Plex Sans',sans-serif;line-height:1.65}
+  a{color:var(--accent);text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:720px;margin:0 auto;padding:48px 24px 64px}
+  .back{font-family:'IBM Plex Mono',monospace;font-size:13px;color:var(--muted)}
+  .back a{color:var(--muted)}
+  h1{font-family:'Fraunces',serif;font-weight:600;font-size:34px;line-height:1.2;margin:28px 0 8px}
+  .authors{font-size:17px;margin:0 0 4px}
+  .affil{color:var(--muted);font-size:14px;margin:0 0 20px}
+  .cite{font-family:'IBM Plex Mono',monospace;font-size:13px;color:var(--muted);border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:12px 0;margin:0 0 24px}
+  .cite b{color:var(--ink);font-weight:500}
+  h2{font-family:'Fraunces',serif;font-weight:600;font-size:20px;margin:28px 0 8px}
+  p{margin:0 0 14px}
+  .actions{display:flex;flex-wrap:wrap;gap:12px;margin:24px 0}
+  .btn{display:inline-block;background:var(--ink);color:var(--bg) !important;padding:10px 18px;border-radius:6px;font-weight:500}
+  .btn:hover{background:var(--accent);text-decoration:none}
+  .btn-ghost{display:inline-block;border:1px solid var(--line);background:var(--card);color:var(--ink) !important;padding:10px 18px;border-radius:6px;font-weight:500}
+  .btn-ghost:hover{border-color:var(--accent);color:var(--accent) !important;text-decoration:none}
+  .note{font-size:13px;color:var(--muted);border-top:1px solid var(--line);margin-top:32px;padding-top:16px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="back"><a href="/">← Sumith Reddi Baddam</a></p>
+
+  <h1>Customer Success Using Deep Learning</h1>
+  <p class="authors">Shobha Deepthi V, Sumith Reddi Baddam, Vignesh Thangaraju</p>
+  <p class="affil">Cisco Systems India Pvt. Ltd., India</p>
+
+  <p class="cite"><b>Advances in Economics and Business</b> 6(6): 332–338, 2018 · DOI: 10.13189/aeb.2018.060607</p>
+
+  <div class="actions">
+    <a class="btn" href="customer-success-using-deep-learning.pdf">Download PDF</a>
+    <a class="btn-ghost" href="https://www.hrpub.org/journals/article_info.php?aid=7421" target="_blank" rel="noopener">Journal page</a>
+  </div>
+
+  <h2>Abstract</h2>
+  <p>Customer Success is gaining priority for organizations in transforming to a recurring revenue business model. For this we need to shift our paradigm from being a &ldquo;reactive troubleshooting&rdquo; to &ldquo;proactively advising&rdquo; our customers. As part of this transformation various capabilities are being built, to capture customer data, have smart agents that collect information from customer networks to predict a failure before it happens and to advise the customer of the resolution. Products can be both hardware and software. It is trickier to predict a failure or an issue beforehand in software when compared to hardware because in hardware there are predefined set of symptoms for a failure. In software, predicting an issue beforehand means knowing and understanding what code is going in with each commit, defect or an enhancement. In most cases, defects found during internal testing, which are often neglected, crop up as customer issues at a later point in time.</p>
+  <p>In this paper, we propose a solution to predict the potential defects that the customer might find after the release of the product using LSTM and CNN. We also predict the time (weeks or months) within which the customer might face this issue. This knowledge helps the teams to prioritize the defects and proactively resolve them on time before going live with a known backlog of issues, thus improving the quality of product that we deliver. Post production this can help proactively advise customers on these known issues that they might face and recommend a software patch or upgrade path. This paper is aimed at reducing the internal failures cost component of Cost of Quality, leading to Customer Retention and Success.</p>
+  <p><b>Keywords:</b> Customer Success, Deep Learning</p>
+
+  <h2>Cited by</h2>
+  <p>Pradhan, S., &amp; Nanniyur, V. (2021). Large scale quality transformation in hybrid development organizations – A case study. <i>Journal of Systems and Software</i>, 171, 110836. <a href="https://www.sciencedirect.com/science/article/pii/S0164121220302284" target="_blank" rel="noopener">ScienceDirect</a></p>
+
+  <p class="note">© 2018 by the authors. This article remains permanently open access under the terms of the <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">Creative Commons Attribution License 4.0 International (CC BY 4.0)</a>. · <a href="/">Back to sumithbaddam.com</a></p>
+</div>
+</body>
+</html>
